@@ -1,6 +1,6 @@
 # SeaSorter
 
-![https://iili.io/HQyYXSa.png](https://iili.io/HQyYXSa.png)
+<img src="https://iili.io/HQyYXSa.png" width="200"></img>
 
 Simple desktop app for sorting files by their formats, written with [fyne](https://iili.io/HQyYXSa.png) framework.
 
@@ -24,11 +24,11 @@ Application should look like this.
 
 Basically, you just enter format of the file and folder where it should go, if folder does not exist, it will create one, if exists it will just move file there, you can move multiple files into one folder.
 
-![usage.gif](https://github.com/ustymhentosh/SeaSorter/blob/main/images/usage.gif)
+<img src="https://github.com/ustymhentosh/SeaSorter/blob/main/images/usage.gif" width="400"></img>
 
 You can also use automatic sorting, which just creates separate folder for each format.
 
-![usage-auto.gif](https://github.com/ustymhentosh/SeaSorter/blob/main/images/usage-auto.gif)
+<img src="https://github.com/ustymhentosh/SeaSorter/blob/main/images/usage-auto.gif" width="400"></img>
 
 Application does not work with files in child folders of the main folders.
 
