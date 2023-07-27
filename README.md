@@ -24,11 +24,11 @@ Application should look like this.
 
 Basically, you just enter format of the file and folder where it should go, if folder does not exist, it will create one, if exists it will just move file there, you can move multiple files into one folder.
 
-<img src="https://github.com/ustymhentosh/SeaSorter/blob/main/images/usage.gif" width="400"></img>
+<img src="https://github.com/ustymhentosh/SeaSorter/blob/main/images/usage.gif" width="800"></img>
 
 You can also use automatic sorting, which just creates separate folder for each format.
 
-<img src="https://github.com/ustymhentosh/SeaSorter/blob/main/images/usage-auto.gif" width="400"></img>
+<img src="https://github.com/ustymhentosh/SeaSorter/blob/main/images/usage-auto.gif" width="800"></img>
 
 Application does not work with files in child folders of the main folders.
 
