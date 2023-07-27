@@ -33,3 +33,7 @@ You can also use automatic sorting, which just creates separate folder for each 
 Application does not work with files in child folders of the main folders.
 
 Other functionality include date filtering - specify how old file should be to be affected by application.
+
+### **Credits**
+
+This project was created by **[Ustym Hentosh](https://github.com/ustymhentosh)**.
