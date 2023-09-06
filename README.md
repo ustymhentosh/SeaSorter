@@ -1,6 +1,7 @@
 # SeaSorter
 
 <img src="https://iili.io/HQyYXSa.png" width="200"></img>
+
 https://apps.fyne.io/apps/com.toithlessskat.seasorter.html
 
 Simple desktop app for sorting files by their formats, written with [fyne](https://iili.io/HQyYXSa.png) framework.
